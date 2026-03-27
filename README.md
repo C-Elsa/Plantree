@@ -7,7 +7,7 @@ Le joueur incarne un explorateur chargé de restaurer la flore d’une planète 
 
 Le jeu combine :
 - des mini-jeux  
-- un système d’inventaire  
+- un système d’inventaire et de rareté de plantes
 - un placement stratégique dans différents biomes  
 
 **Objectif** : atteindre un score suffisant (plus de 80/100) pour rendre la planète viable.
@@ -45,7 +45,11 @@ Avant de lancer le projet, il faut :
 - **mastermind.py** → mini-jeu Mastermind  
 - **batailleNavale.py** → mini-jeu bataille navale  
 - **breakout.py** → mini-jeu Breakout  
-- **retour.py** → bouton retour  
+- **retour.py** → bouton retour
+
+Vous pouvez retrouvez les programmes du mastermind et de la bataille navalle jouable dans la console dans le dossier Code mini-jeu :
+-**Mini jeu - MasterMind**
+-**Mini jeu-Bataille navalle**
 
 
 ## Installation
