@@ -194,10 +194,8 @@ def lancer_biomes(screen, score_biomes):
         bouton_retour = dessiner_bouton_retour(screen)
         
         if mission_finie:
-            couleur = VERT_FONCE if "ACCOMPLIE" in etat_mission else ROUGE_DOUX
-            screen.blit(font.render(etat_mission, True, couleur), (300,300))
-            screen.blit(font_small.render("Clique sur retour", True, NOIR_DOUX), (320,340))
-                    
+            return score_biomes
+            
         pygame.display.update()
 
     return score_biomes
