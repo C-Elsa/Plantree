@@ -1,3 +1,6 @@
+#Projet : Plantree
+#Auteurs : Elsa CHEN, Sami OULHI
+
 from random import randint
 import pygame, sys
 
