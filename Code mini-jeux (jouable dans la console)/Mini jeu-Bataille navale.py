@@ -1,3 +1,6 @@
+#Projet : Plantree
+#Auteurs : Elsa CHEN, Sami OULHI
+
 from random import randint, choice
 #bataille navale revisitée
 #l'ocean est un jardin
