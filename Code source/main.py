@@ -329,32 +329,29 @@ while running:
     
     if etat == "fin":
         screen.fill((0, 0, 0))
-        
+
         bg = bg_levels[niveau]
         screen.blit(bg, (0, 0))
-        
+    
         overlay = pygame.Surface((WIDTH, HEIGHT), pygame.SRCALPHA)
-        overlay.fill((0, 0, 0, 150)) 
+        overlay.fill((0, 0, 0, 150))
         screen.blit(overlay, (0, 0))
 
+        # TEXTE
         if etat_fin == "victoire":
-            
             txt = font.render("MISSION ACCOMPLIE", True, VERT_VALID)
-            screen.blit(txt, txt.get_rect(center=(WIDTH//2, 250)))
-
-
-        elif etat_fin == "defaite":
-            
+        else:
             txt = font.render("MISSION ECHOUEE", True, ROUGE_DOUX)
-            screen.blit(txt, txt.get_rect(center=(WIDTH//2, 250)))
 
+        screen.blit(txt, txt.get_rect(center=(WIDTH//2, 250)))
+
+        # BOUTON QUIT (toujours)
         pygame.draw.rect(screen, BEIGE_FONCE, quit_fin_btn, border_radius=10)
         txt_quit = font.render("QUIT", True, BEIGE)
         screen.blit(txt_quit, txt_quit.get_rect(center=quit_fin_btn.center))
 
-
+        # BOUTON CONTINUER (seulement victoire)
         if etat_fin == "victoire":
-            
             pygame.draw.rect(screen, VERT_FONCE, continuer_btn, border_radius=10)
             txt_cont = font.render("CONTINUER", True, BEIGE)
             screen.blit(txt_cont, txt_cont.get_rect(center=continuer_btn.center))
