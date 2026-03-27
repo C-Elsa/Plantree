@@ -86,13 +86,6 @@ def lancer_biomes(screen, score_biomes):
         plantes_disponibles = get_plantes_disponibles()
         
         score = score_planete()
-        
-        if score >= 80:
-            mission_finie = True
-            etat_mission = "MISSION ACCOMPLIE"
-        elif score <= 10:
-            mission_finie = True
-            etat_mission = "MISSION ECHOUEE"
                 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
