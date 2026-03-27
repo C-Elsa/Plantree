@@ -55,9 +55,7 @@ Vous pouvez retrouvez les programmes du mastermind et de la bataille navalle jou
 
 ## Installation
 
-Pour lancer le projet, plusieurs solutions sont possibles.
-
-### Avec Thonny (recommandé)
+### Nous vous recommenndons d'utiliser Thonny, le logitiel que nous avons utilisé
 
 Le logiciel **Thonny**, téléchargeable facilement en ligne, est particulièrement adapté pour ce projet.  
 Il est simple d’utilisation, rapide à prendre en main et fonctionne très bien avec Python et Pygame.
@@ -69,14 +67,6 @@ Il est simple d’utilisation, rapide à prendre en main et fonctionne très bie
 
 Le jeu se lance automatiquement.
 
-
-### Avec le terminal
-
-Vous pouvez également lancer le projet avec la commande suivante :
-
-```bash
-python main.py
-```
 
 ---
 ## Auteurs : 
