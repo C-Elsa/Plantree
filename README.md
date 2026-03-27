@@ -16,10 +16,13 @@ Le jeu combine :
 
 ##  Pour commencer ...
 
-Ce projet permet de découvrir :
-- la programmation en Python  
-- la création de jeux avec Pygame  
-- la gestion d’interfaces graphiques et d’événements  
+Pour bien débuter avec ce projet, il est conseillé de :
+
+- Télécharger ou cloner l’ensemble des fichiers du projet  
+- Vérifier que tous les fichiers (programmes, images, sons, polices) sont présents dans le même dossier  
+- Ouvrir le projet avec un éditeur Python (comme Thonny ou Visual Studio Code)  
+
+Une fois ces étapes réalisées, le projet est prêt à être lancé.
 
 ##  Pré-requis
 
