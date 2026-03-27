@@ -1,3 +1,6 @@
+#Projet : Plantree
+#Auteurs : Elsa CHEN, Sami OULHI
+
 import pygame
 import math
 
