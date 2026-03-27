@@ -39,7 +39,7 @@ Avant de lancer le projet, il faut :
 
 ##  Programmes
 
-- **PLANTREE.py** → programme principal (menu, navigation)  
+- **main.py** → programme principal (menu, navigation)  
 - **biomes.py** → gestion des biomes et du score  
 - **inventaire.py** → gestion des graines  
 - **mastermind.py** → mini-jeu Mastermind  
@@ -63,7 +63,7 @@ Il est simple d’utilisation, rapide à prendre en main et fonctionne très bie
 
 Étapes :
 1. Ouvrir le dossier du projet dans votre explorateur de fichiers  
-2. Ouvrir le fichier `Plantree.py` dans Thonny
+2. Ouvrir le fichier `main.py` dans Thonny
 3. Cliquer sur le bouton **Run** 
 
 Le jeu se lance automatiquement.
@@ -74,7 +74,7 @@ Le jeu se lance automatiquement.
 Vous pouvez également lancer le projet avec la commande suivante :
 
 ```bash
-python Plantree.py
+python main.py
 ```
 
 ---
