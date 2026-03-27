@@ -5,7 +5,7 @@
 Plantree est un jeu développé en Python avec la bibliothèque Pygame.  
 Le joueur incarne un scientifique chargé de restaurer la flore d’une planète en récupérant et en plantant des graines.
 
-Le jeu combine :
+Le jeu comprend :
 - des mini-jeux  
 - un système d’inventaire et de rareté de plantes
 - un placement stratégique dans différents biomes  
