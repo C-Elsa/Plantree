@@ -93,7 +93,7 @@ L’utilisation de commentaires nous a aidés à mieux structurer et comprendre 
 
 Nous aurions aimé réaliser nous même les illustrations mais nous n’avions pas pu par faute de temps.
 
-Nous avons également pensé à améliorer le visuel des mini-jeux, à ajouter un système pour pouvoir jouer à la bataille navale contre une IA et à développer l’inventaire pour avoir des fiches informatives pour chaque plante, enfin, la modification de l’arrière plan en fonction du score aurait été intéressante. 
+Nous avons également pensé à améliorer le visuel des mini-jeux, à ajouter un système pour pouvoir jouer à la bataille navale contre une IA et à développer l’inventaire pour avoir des fiches informatives pour chaque plante.
 
 
 2. Conclusion :
