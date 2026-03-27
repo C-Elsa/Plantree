@@ -22,8 +22,8 @@ Pour bien débuter avec ce projet, il est conseillé de :
 - Vérifier que tous les fichiers (programmes, images, sons, polices) sont présents dans le même dossier  
 - Ouvrir le projet avec un éditeur Python (comme Thonny ou Visual Studio Code)
 
-Si vous téléchargez le projet avec un fichier zip :
-- cliquer sur extraire tout les document (faire en sorte que le dossier ne soit plus zippé)
+Si vous téléchargez le projet via Code (bouton vert) pui Télécharger le fichier zip :
+- Dans votre explorateur de fichier, cliquer sur extraire tout les documents du fichier zip (faire en sorte que le dossier ne soit plus zippé)
 
 Une fois ces étapes réalisées, le projet est prêt à être lancé.
 
