@@ -36,7 +36,7 @@ Avant de lancer le projet, il faut :
 
 ##  Programmes
 
-- **Plantree.py** → programme principal (menu, navigation)  
+- **PLANTREE.py** → programme principal (menu, navigation)  
 - **biomes.py** → gestion des biomes et du score  
 - **inventaire.py** → gestion des graines  
 - **mastermind.py** → mini-jeu Mastermind  
