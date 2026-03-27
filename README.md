@@ -58,12 +58,12 @@ Pour lancer le projet, plusieurs solutions sont possibles.
 
 ### Avec Thonny (recommandé)
 
-Le logiciel **Thonny** est particulièrement adapté pour ce projet.  
+Le logiciel **Thonny**, téléchargeable facilement en ligne, est particulièrement adapté pour ce projet.  
 Il est simple d’utilisation, rapide à prendre en main et fonctionne très bien avec Python et Pygame.
 
 Étapes :
-1. Ouvrir le dossier du projet dans Thonny  
-2. Ouvrir le fichier `Plantree.py`  
+1. Ouvrir le dossier du projet dans votre explorateur de fichiers  
+2. Ouvrir le fichier `Plantree.py` dans Thonny
 3. Cliquer sur le bouton **Run** 
 
 Le jeu se lance automatiquement.
