@@ -48,8 +48,8 @@ Avant de lancer le projet, il faut :
 - **retour.py** → bouton retour
 
 Vous pouvez retrouvez les programmes du mastermind et de la bataille navalle jouable dans la console dans le dossier Code mini-jeu :
--**Mini jeu - MasterMind**
--**Mini jeu-Bataille navalle**
+- **Mini jeu - MasterMind**
+- **Mini jeu-Bataille navalle**
 
 
 ## Installation
