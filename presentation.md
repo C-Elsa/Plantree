@@ -75,9 +75,13 @@ Lors du codage du Mastermind, si la composition secrète comprenait plusieurs fo
 Lors du codage de la bataille navale, nous avons rencontré des difficultés par rapport au placement aléatoire des parterres (les bateaux). 
 Les bateaux ne devaient pas se superposer ou dépasser de la grille.
 Pour cela, nous avons créé une variable caseLibre et réalisé que les placements possibles pour un bateau était la longueur de la ligne ou de la colonne moins la taille du bateau. 
+
 Ex : [0,0,0,0,0,0] si ceci est une ligne de 6 cases la grille
+
 Nous voulons placer un bateau de 3 cases soit 1,1,1.
+
 Les cas possibles sont [1,1,1,0,0,0], [0,1,1,1,0,0],[0,0,1,1,1,0] ou [0,0,0,1,1,1]
+
 Soit le premier 1 est dans les positions 0, 1, 2, 3 donc (0,3)   or 3 = 6 (longueur ligne) – 3 (longueur bateau)
 D’où randint(0,6-taille) qui devient randint(0, GRID_SIZE-taille)
 
