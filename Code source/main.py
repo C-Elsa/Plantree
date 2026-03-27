@@ -328,7 +328,7 @@ while running:
             etat = "principal"
     
     if etat == "fin":
-        screen.fill((0, 0, 0,))
+        screen.fill((0, 0, 0))
         
         bg = bg_levels[niveau]
         screen.blit(bg, (0, 0))
