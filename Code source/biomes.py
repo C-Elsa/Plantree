@@ -132,6 +132,9 @@ def lancer_biomes(screen, score_biomes):
                                 inventaire.planter(plante_selectionnee)
                                 plante_selectionnee = None
                                 message_timer = 90
+
+                                if score_planete() >= 80 or score_planete() <= 10:
+                                    mission_finie = True
                                 
                                 break
 
