@@ -95,6 +95,8 @@ Nous aurions aimé réaliser nous même les illustrations mais nous n’avions p
 
 Nous avons également pensé à améliorer le visuel des mini-jeux, à ajouter un système pour pouvoir jouer à la bataille navale contre une IA et à développer l’inventaire pour avoir des fiches informatives pour chaque plante.
 
+nfin, il aurait été préférable de cumuler automatiquement les graines d’une même plante lorsqu’elle est obtenue plusieurs fois dans les mini-jeux. Par exemple, si la plante *lys martagon* est gagnée deux fois, les quantités devraient s’additionner pour afficher directement une seule entrée avec « x6 », plutôt que de présenter deux occurrences distinctes avec « x3 » chacune.
+
 
 2. Conclusion :
 
