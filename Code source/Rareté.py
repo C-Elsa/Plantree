@@ -1,3 +1,6 @@
+#Projet : Plantree
+#Auteurs : Elsa CHEN, Sami OULHI
+
 commune = ["pissenlit", "ortie dioïque","fougère mâle","trèfle blanc",
            "pâquerette","bouton d'or","jonc épars","roseau commun",
            "algue verte", "algue brune", "oyat", "roquette de mer"]
