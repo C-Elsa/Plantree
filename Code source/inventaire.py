@@ -1,3 +1,6 @@
+#Projet : Plantree
+#Auteurs : Elsa CHEN, Sami OULHI
+
 import pygame
 
 pygame.font.init()
