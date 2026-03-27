@@ -328,11 +328,13 @@ while running:
             etat = "principal"
     
     if etat == "fin":
+        screen.fill((0, 0, 0,))
+        
         bg = bg_levels[niveau]
         screen.blit(bg, (0, 0))
         
         overlay = pygame.Surface((WIDTH, HEIGHT), pygame.SRCALPHA)
-        overlay.fill((255, 255, 255, 120)) 
+        overlay.fill((0, 0, 0, 150)) 
         screen.blit(overlay, (0, 0))
 
         if etat_fin == "victoire":
